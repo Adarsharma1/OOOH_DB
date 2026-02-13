@@ -1,0 +1,6 @@
+[
+{"applies_to": ["*"], "backend_version": "1.0.1", "created_at": {"$reql_type$": "TIME", "epoch_time": 1769166614.374, "timezone": "+00:00"}, "id": "ALL|1.0.1", "latest_version": "1.0.3", "message": "Please update the application to continue", "min_supported_version": "1.0.1", "soft_update_below": "1.0.3", "status": "active", "updated_at": {"$reql_type$": "TIME", "epoch_time": 1769166614.374, "timezone": "+00:00"}},
+{"client_id": "webapp", "id": "client_id"},
+{"app": "pltfm", "id": "system"},
+{"id": "system_lang_code", "lang_code": "en-US"}
+]

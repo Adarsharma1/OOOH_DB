@@ -1,0 +1,1 @@
+{"db": {"id": "95227a1b-7927-4d80-9888-4b0587be9bfb", "name": "dataDB", "type": "DB"}, "doc_count_estimates": [0], "id": "ad6ececf-058c-4213-ae22-a9b0fe646069", "indexes": [], "name": "companies", "primary_key": "id", "type": "TABLE", "write_hook": null}

@@ -1,0 +1,1 @@
+{"db": {"id": "f025b52b-55e3-4767-9e20-531d7da93ac1", "name": "configDB", "type": "DB"}, "doc_count_estimates": [28], "id": "1f2a91e2-df97-47b8-937d-bfe7c006f7a7", "indexes": [], "name": "entities", "primary_key": "entity_id", "type": "TABLE", "write_hook": null}

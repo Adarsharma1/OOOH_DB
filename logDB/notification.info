@@ -1,0 +1,1 @@
+{"db": {"id": "3ab0f1e4-fd4f-4cc1-944e-b1e16099ef85", "name": "logDB", "type": "DB"}, "doc_count_estimates": [0], "id": "8408fc49-9502-44f7-92fe-e9f655ce863c", "indexes": [], "name": "notification", "primary_key": "user_id", "type": "TABLE", "write_hook": null}

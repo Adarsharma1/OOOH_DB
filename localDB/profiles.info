@@ -1,0 +1,1 @@
+{"db": {"id": "e1044123-2844-4cb5-8017-73a2e1870eff", "name": "localDB", "type": "DB"}, "doc_count_estimates": [0], "id": "daf34c65-8a5d-4426-9f18-b99020b082e4", "indexes": [], "name": "profiles", "primary_key": "id", "type": "TABLE", "write_hook": null}

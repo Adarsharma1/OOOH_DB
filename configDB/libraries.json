@@ -1,0 +1,5 @@
+[
+{"code_type": "asdf", "custom": true, "endpoint": "192.168.31.129:8082", "library_name": "core_lib", "namespace": "core", "service_name": "asdf"},
+{"code_type": "", "custom": true, "endpoint": "", "library_name": "custom_lib", "namespace": "wms", "service_name": ""},
+{"code_type": "", "custom": false, "endpoint": "192.168.0.105:8089", "library_name": "wms_lib", "namespace": "wms", "service_name": ""}
+]

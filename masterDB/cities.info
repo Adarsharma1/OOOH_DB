@@ -1,0 +1,1 @@
+{"db": {"id": "3f9c36f8-1ca6-4040-bb64-fe617d23f633", "name": "masterDB", "type": "DB"}, "doc_count_estimates": [60], "id": "c7f24430-f91e-4a70-9b5d-48f0522304ff", "indexes": [], "name": "cities", "primary_key": "id", "type": "TABLE", "write_hook": null}
