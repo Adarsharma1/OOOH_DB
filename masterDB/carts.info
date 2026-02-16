@@ -1,0 +1,1 @@
+{"db": {"id": "3f9c36f8-1ca6-4040-bb64-fe617d23f633", "name": "masterDB", "type": "DB"}, "doc_count_estimates": [0], "id": "1cc9906f-a229-4079-a0a2-b5d096ac7064", "indexes": [], "name": "carts", "primary_key": "id", "type": "TABLE", "write_hook": null}

@@ -1,1 +1,1 @@
-{"db": {"id": "f025b52b-55e3-4767-9e20-531d7da93ac1", "name": "configDB", "type": "DB"}, "doc_count_estimates": [70], "id": "3e611c2c-b131-4617-8070-30e3cd662f96", "indexes": [], "name": "functions", "primary_key": "function_name", "type": "TABLE", "write_hook": null}
+{"db": {"id": "f025b52b-55e3-4767-9e20-531d7da93ac1", "name": "configDB", "type": "DB"}, "doc_count_estimates": [80], "id": "3e611c2c-b131-4617-8070-30e3cd662f96", "indexes": [], "name": "functions", "primary_key": "function_name", "type": "TABLE", "write_hook": null}

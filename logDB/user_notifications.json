@@ -1,4 +1,2 @@
 [
-{"created_at": {"$reql_type$": "TIME", "epoch_time": 1769937841.231, "timezone": "+00:00"}, "id": "1c3a30b6-ec20-4e34-a066-061b9b63af81", "payload": {"comment": "", "id": "1c3a30b6-ec20-4e34-a066-061b9b63af81", "message": "Your Profile is approved", "status": "approved", "type": "profile_review"}, "status": "pending", "type": "Notification", "user_id": "41012ace-5e98-465e-8e98-f8396c9a48ff"},
-{"created_at": {"$reql_type$": "TIME", "epoch_time": 1769937891.007, "timezone": "+00:00"}, "id": "385ca0dc-7c91-4e1f-9ae7-f0aa68919026", "payload": {"comment": "", "id": "385ca0dc-7c91-4e1f-9ae7-f0aa68919026", "message": "Your Profile is approved", "status": "approved", "type": "profile_review"}, "status": "pending", "type": "Notification", "user_id": "41012ace-5e98-465e-8e98-f8396c9a48ff"}
 ]
