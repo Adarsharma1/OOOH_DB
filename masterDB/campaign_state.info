@@ -1,1 +1,1 @@
-{"db": {"id": "3f9c36f8-1ca6-4040-bb64-fe617d23f633", "name": "masterDB", "type": "DB"}, "doc_count_estimates": [110], "id": "a6be18eb-020b-44f2-93b6-77ee3af00051", "indexes": [], "name": "campaign_state", "primary_key": "id", "type": "TABLE", "write_hook": null}
+{"db": {"id": "3f9c36f8-1ca6-4040-bb64-fe617d23f633", "name": "masterDB", "type": "DB"}, "doc_count_estimates": [0], "id": "a6be18eb-020b-44f2-93b6-77ee3af00051", "indexes": [], "name": "campaign_state", "primary_key": "id", "type": "TABLE", "write_hook": null}

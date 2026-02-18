@@ -1,3 +1,2 @@
 [
-{"billboard_id": "93aafd1e-d4bc-4a68-a03f-da088034d756", "created_at": {"$reql_type$": "TIME", "epoch_time": 1771238591.9, "timezone": "+00:00"}, "end_date": "2026-02-28", "id": "2451645e-9772-4ff5-932a-3edb17f6980f", "start_date": "2026-02-01", "status": "pending"}
 ]

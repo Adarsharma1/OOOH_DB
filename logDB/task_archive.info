@@ -1,1 +1,1 @@
-{"db": {"id": "3ab0f1e4-fd4f-4cc1-944e-b1e16099ef85", "name": "logDB", "type": "DB"}, "doc_count_estimates": [20], "id": "e490d163-6b6a-499f-ab4c-6b670677b4e3", "indexes": [], "name": "task_archive", "primary_key": "task_id", "type": "TABLE", "write_hook": null}
+{"db": {"id": "3ab0f1e4-fd4f-4cc1-944e-b1e16099ef85", "name": "logDB", "type": "DB"}, "doc_count_estimates": [0], "id": "e490d163-6b6a-499f-ab4c-6b670677b4e3", "indexes": [], "name": "task_archive", "primary_key": "task_id", "type": "TABLE", "write_hook": null}
